@@ -1,0 +1,6 @@
+Pontos para a última aula:
+
+1- Apresentar como são dados não estruturados.
+	a. Porém não utilizar os arquivos txt para a aula, pedir para os alunos
+	passarem todas as informações dos txt para uma planilha para estarmos 	
+	utilizando-a.
